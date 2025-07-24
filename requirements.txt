@@ -1,0 +1,3 @@
+flask==3.0.0
+python-dotenv
+spotipy==2.23.0
